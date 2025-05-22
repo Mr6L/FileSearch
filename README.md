@@ -34,7 +34,7 @@ dotnet run
 
 1. 确保已安装.NET SDK 8.0或更高版本
 2. 双击可执行文件FileSearchApp.exe
-   可执行文件位于：`bin\Debug\net8.0-windows\win-x64\publish\FileSearchApp.exe`
+   可执行文件位于：`bin\Debug\net8.0-windows\win-x64\FileSearchApp.exe`
 3. 双击该文件即可运行程序，无需安装.NET运行时
 
 ## 使用说明
